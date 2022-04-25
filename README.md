@@ -14,7 +14,10 @@ ratingData = [
 {restaurant: 'Subway', rating:4},
 {restaurant: 'Pizza Hut', rating:5}
 ]
+
+
 a. Calculate the Average rating for all the restaurants.
+
 b. List of all restaurants with average rating greater than or equal to 4.
 Expected Response for a:
 [{ restaurant: 'KFC', averageRating: 4},
